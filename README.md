@@ -1,0 +1,2 @@
+# shmalfance
+Personal finance app
